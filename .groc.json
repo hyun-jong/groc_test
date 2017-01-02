@@ -1,0 +1,10 @@
+{
+  "glob": [
+    "README.md",
+    "./*.js"
+  ],
+  "except": [
+  ],
+  "github": true,
+  "out": "./docs/groc"
+}
