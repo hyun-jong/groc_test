@@ -8,5 +8,5 @@
 
 ###문제점
 ```
-**.groc.json** 파일에 github 설정 true할 시 에러 발생
+.groc.json 파일에 github 설정 true할 시 에러 발생
 ```
